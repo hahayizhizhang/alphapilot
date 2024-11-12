@@ -2,7 +2,7 @@
 
 Welcome to AlphaPilot! Please follow these steps to complete your account creation and verification:
 
-
+***
 
 ## <mark style="color:green;">I. Account Registration</mark>
 
@@ -27,7 +27,7 @@ Note: AlphaPilot requires invitation for registration. Please register through o
 
 • Profile icon will appear in \[Settings] indicating successful registration
 
-
+***
 
 ## <mark style="color:green;">II. Account Security Setup</mark>
 
@@ -45,7 +45,7 @@ To ensure your account security, complete these settings:
 • Email alerts: Enable to receive strategy signals\
 • Telegram notifications: Connect for real-time trading alerts
 
-
+***
 
 ## <mark style="color:green;">III. Registration Benefits</mark>
 

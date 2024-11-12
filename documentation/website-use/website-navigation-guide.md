@@ -2,7 +2,7 @@
 
 Welcome to AlphaPilot! This guide will help you quickly understand and start using our quantitative trading platform.
 
-
+***
 
 ## <mark style="color:green;">I. Main Interface</mark>
 
@@ -12,7 +12,7 @@ The main interface consists of two core functions:
 
 • **Strategy Center**: Browse, create, and manage your quantitative trading strategies, implementing intelligent investment decisions
 
-
+***
 
 ## <mark style="color:green;">II. Left Navigation Bar</mark>
 

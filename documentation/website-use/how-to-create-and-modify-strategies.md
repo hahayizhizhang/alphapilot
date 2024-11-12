@@ -8,7 +8,7 @@
 
 Through the STRATEGY function, AlphaPilot provides a comprehensive quantitative trading platform to help you achieve investment goals efficiently.
 
-
+***
 
 ## <mark style="color:green;">I. Manual Strategy Creation</mark>
 
@@ -39,7 +39,7 @@ In My Strategy, you can easily view and manage your strategies:
 
 ⚠️ Caution: Please save changes before exiting
 
-
+***
 
 ## <mark style="color:green;">II. Quick Creation with AlphaPilot AI (Coming Soon)</mark>
 
@@ -50,7 +50,7 @@ In My Strategy, you can easily view and manage your strategies:
 * Review suggested parameters&#x20;
 * Click confirm to implement
 
-
+***
 
 ## <mark style="color:green;">III. Usage Recommendations</mark>
 

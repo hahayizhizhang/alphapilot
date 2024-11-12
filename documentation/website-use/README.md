@@ -4,12 +4,54 @@ icon: pen-to-square
 
 # website-use
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+Welcome to the AlphaPilot documentation center. Here in this section, you'll find comprehensive guides to help you navigate and maximize your use of our platform.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
+## <mark style="color:green;">Available Guides</mark>
 
-### Writing content
+### 🧭 Website Navigation Guide
 
-GitBook offers a range of block types for you to add to your content inline — from simple text and tables, to code blocks and more. These elements will make your pages more useful to readers, and offer extra information and context.
+Essential information about the platform's layout and core features. Perfect for new users getting started with AlphaPilot.
 
-Either start typing below, or press `/` to see a list of the blocks you can insert into your page.
+{% content-ref url="website-navigation-guide.md" %}
+[website-navigation-guide.md](website-navigation-guide.md)
+{% endcontent-ref %}
+
+***
+
+### 🔐 How to Create and Verify Your Account
+
+Step-by-step instructions for account creation, verification, and security setup. Includes important tips for protecting your account.
+
+{% content-ref url="how-to-create-and-verify-your-account.md" %}
+[how-to-create-and-verify-your-account.md](how-to-create-and-verify-your-account.md)
+{% endcontent-ref %}
+
+***
+
+### 📊 How to Create and Modify Strategies
+
+Detailed guide on creating, customizing, and managing your trading strategies. Learn how to use both manual and AI-assisted strategy creation.
+
+{% content-ref url="how-to-create-and-modify-strategies.md" %}
+[how-to-create-and-modify-strategies.md](how-to-create-and-modify-strategies.md)
+{% endcontent-ref %}
+
+***
+
+### 🔔 How to Get Notifications
+
+Complete setup instructions for all notification channels (web, email, Telegram) to ensure you never miss important trading signals.
+
+{% content-ref url="how-to-receive-notifications.md" %}
+[how-to-receive-notifications.md](how-to-receive-notifications.md)
+{% endcontent-ref %}
+
+***
+
+### ⚙️ How to Modify Settings
+
+Comprehensive guide to personalizing your AlphaPilot experience through platform settings and preferences.
+
+{% content-ref url="how-to-modify-personal-information-and-security-settings.md" %}
+[how-to-modify-personal-information-and-security-settings.md](how-to-modify-personal-information-and-security-settings.md)
+{% endcontent-ref %}
