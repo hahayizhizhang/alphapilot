@@ -1,11 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/screenshot-20241112-113537.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -19,6 +14,8 @@ layout:
 ---
 
 # Overview
+
+<figure><img src=".gitbook/assets/screenshot-20241112-113537.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:green;">What is AlphaPilot?</mark>
 
