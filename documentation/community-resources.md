@@ -19,3 +19,7 @@ Discord Official Group: [https://discord.gg/4pYSVeV6](https://discord.gg/4pYSVeV
 Telegram Official Group: [https://t.me/AlphaPilotClub/1](https://t.me/AlphaPilotClub/1)
 
 AlphaPilot WeChat Assistant: `AlphaPilot_bot`
+
+
+
+<mark style="color:red;">For your security, please verify the authenticity of all links and communication channels before engaging.</mark>
