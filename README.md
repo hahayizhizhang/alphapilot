@@ -15,7 +15,7 @@ layout:
 
 # Overview
 
-<figure><img src=".gitbook/assets/screenshot-20241112-113537.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/home-title-BLjwY0mM (1).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:green;">What is AlphaPilot?</mark>
 
