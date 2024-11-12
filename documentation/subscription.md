@@ -2,49 +2,58 @@
 icon: hand-pointer
 ---
 
-# subscription
+# Membership Levels
 
-In addition to the default Markdown you can write, GitBook has a number of out-of-the-box interactive blocks you can use. You can find interactive blocks by pressing `/` from within the editor.
+Note: You can upgrade your membership at any time to enjoy more professional features.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/interactive-hero.png" alt=""><figcaption></figcaption></figure>
+## <mark style="color:green;">Membership Details</mark>
 
-### Tabs
+Choose the appropriate membership level to enjoy a customized trading experience.
 
 {% tabs %}
-{% tab title="First tab" %}
-Each tab is like a mini page — it can contain multiple other blocks, of any type. So you can add code blocks, images, integration blocks and more to individual tabs in the same tab block.
+{% tab title="Basic" %}
+## (Free)
+
+* Create and preview strategies
+* AI assistant
 {% endtab %}
 
-{% tab title="Second tab" %}
-Add images, embedded content, code blocks, and more.
+{% tab title="Premium" %}
+## ($49/month)
 
-```javascript
-const handleFetchEvent = async (request, context) => {
-    return new Response({message: "Hello World"});
-};
-```
+* Create and save up to 2 strategies
+* signal notification service
+{% endtab %}
+
+{% tab title="Professional " %}
+## ($99/month)
+
+* Create and save up to 10 strategies
+* signal notification service
+* priority response service
+{% endtab %}
+
+{% tab title="Advanced" %}
+## ($199/month)
+
+* Create up to 20 sub-strategies
+* Advanced analysis tools
+* Advanced signal notification service
+* VIP customer support
+* Priority strategy updates
+{% endtab %}
+
+{% tab title="Enterprise" %}
+## (1-on-1 Custom)
+
+* API endpoint support
+* Customized solutions
+* Dedicated account manager
+* Custom development support
+* Enterprise-level technical support
+* One-on-one strategy consultation
 {% endtab %}
 {% endtabs %}
 
-### Expandable sections
-
-<details>
-
-<summary>Click me to expand</summary>
-
-Expandable blocks are helpful in condensing what could otherwise be a lengthy paragraph. They are also great in step-by-step guides and FAQs.
-
-</details>
-
-### Drawings
-
-<img alt="" class="gitbook-drawing">
-
-### Embedded content
-
-{% embed url="https://www.youtube.com/watch?v=YILlrDYzAm4" %}
-
-{% hint style="info" %}
-GitBook supports thousands of embedded websites out-of-the-box, simply by pasting their links. Feel free to check out which ones[ are supported natively](https://iframely.com).
-{% endhint %}
+If you need more information about membership privileges or upgrade services, please contact our customer support team. We will provide professional consultation services to help you choose the most suitable membership plan.
 
