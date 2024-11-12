@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/screenshot-20241112-113140 (1).png
-coverY: 24
+cover: .gitbook/assets/screenshot-20241112-113140.png
+coverY: 0
 layout:
   cover:
     visible: true
