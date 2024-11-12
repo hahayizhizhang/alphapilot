@@ -8,7 +8,7 @@ icon: globe-pointer
 
 Users can interact with AlphaPilot's AI through the intuitive chat interface. Whether you're a newcomer or an experienced trader, you can instantly access AI-powered market analysis, strategy selection, risk management, and personalized investment advice.
 
-
+***
 
 ## <mark style="color:green;">II. How Can the AI Assistant Help Me?</mark>
 
@@ -40,7 +40,7 @@ AlphaPilot ensures each user enjoys a highly personalized trading experience. Th
 * Generates customized investment suggestions based on trading patterns and historical performance
 * Helps users achieve personalized investment objectives
 
-
+***
 
 ## <mark style="color:green;">III. How Does the AI Generate Trading Suggestions?</mark>
 

@@ -8,7 +8,7 @@ icon: bullseye-arrow
 
 Quantitative trading is an intelligent investment approach based on mathematical models and data analysis. It helps investors eliminate emotional bias and execute trading decisions objectively and efficiently through programming and algorithms.
 
-
+***
 
 ## <mark style="color:green;">II. What Strategies Does AlphaPilot Support?</mark>
 
@@ -18,12 +18,12 @@ AlphaPilot supports various quantitative trading strategies to meet different us
    Based on historical price movements and market volatility to identify trading opportunities.
 2. **Multi-Factor Strategies**\
    Makes trading decisions through comprehensive analysis of multiple market factors (technical indicators, fundamental data, etc.).
-3. **Event-Driven Strategies**\
+3. **DCA (Dollar-Cost Averaging) Strategies**\
+   Designed for large capital investments seeking stable returns through systematic allocation.
+4. **Event-Driven Strategies**\
    Trades based on major market events (earnings releases, macroeconomic data, etc.) to quickly capture market sentiment changes.
-4. **Sentiment Analysis Strategies**\
-   Uses natural language processing to analyze news and social media content, adjusting investment strategies based on market sentiment shifts.
 
-
+***
 
 ## <mark style="color:green;">III. How to Choose Your Strategy?</mark>
 
@@ -38,7 +38,7 @@ When selecting a strategy, consider these factors:
 4. **Market Volatility**\
    Is the current market highly volatile or relatively stable? Different strategies suit different market conditions.
 
-
+***
 
 ## <mark style="color:green;">IV. What Are the Risks?</mark>
 

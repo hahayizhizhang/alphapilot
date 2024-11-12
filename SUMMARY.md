@@ -15,7 +15,7 @@
   * [How to Receive Notifications](documentation/website-use/how-to-receive-notifications.md)
   * [How to Modify Personal Information and Security Settings](documentation/website-use/how-to-modify-personal-information-and-security-settings.md)
 * [AI-use](documentation/ai-use/README.md)
-  * [how-to-use-AI](documentation/ai-use/how-to-use-ai.md)
+  * [How to Activate and Use AI Assistant](documentation/ai-use/how-to-activate-and-use-ai-assistant.md)
   * [how-AI-create-strategy](documentation/ai-use/how-ai-create-strategy.md)
   * [how-ai-analyze-market](documentation/ai-use/how-ai-analyze-market.md)
 * [strategy-introduction](documentation/strategy-introduction/README.md)
