@@ -33,7 +33,7 @@ Our team combines extensive experience in AI and fintech, working to help everyo
 
 • US Stocks \[Coming Soon]&#x20;
 
-• China A-Shares \[Coming Soon]
+• A-Shares \[Coming Soon]
 
 
 
