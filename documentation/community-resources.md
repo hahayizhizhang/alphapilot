@@ -14,7 +14,7 @@ AlphaPilot Official Website: [www.alphapilot.tech](http://www.alphapilot.tech)
 
 AlphaPilot Official X (Twitter): [https://x.com/AlphaPilotHQ](https://x.com/AlphaPilotHQ)
 
-Discord Official Group: [https://discord.gg/4pYSVeV6](https://discord.gg/4pYSVeV6)
+Discord Official Group: [https://discord.gg/VAz9ChMghu](https://discord.gg/VAz9ChMghu)
 
 Telegram Official Group: [https://t.me/AlphaPilotClub/1](https://t.me/AlphaPilotClub/1)
 
