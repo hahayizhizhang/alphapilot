@@ -16,26 +16,36 @@ AlphaPilot ensures each user enjoys a highly personalized trading experience. Th
 
 
 
-### Our AI Features (Coming Soon):
+### Our AI Features :
 
-1. **Market Analysis**
+1. **Intent Recognition**:
+
+* Detects user intent (e.g., hovering over an area) to identify when assistance is needed.
+* Proactively offers help through prompts or suggestions.
+
+2. **Automation**:
+
+* Automates tasks based on user commands or workflows.
+* Examples: Creating strategies, modifying notifications, or filtering signals.
+
+3. **Market Analysis**
 
 * Real-time analysis of global market data
 * Identifies potential investment opportunities
 * Visual presentation of market trends
 
-2. **Strategy Recommendations**
+4. **Strategy Recommendations(Coming soon)**
 
 * Suggests suitable quantitative strategies based on your investment goals and market conditions
 * One-click strategy deployment
 
-3. **Risk Management**
+5. **Risk Management(Coming soon)**
 
 * Monitors risk exposure based on user preferences
 * Provides position sizing and stop-loss recommendations
 * Helps users manage investment risks more effectively
 
-4. **Personalized Investment Advice**
+6. **Personalized Investment Advice(Coming soon)**
 
 * Generates customized investment suggestions based on trading patterns and historical performance
 * Helps users achieve personalized investment objectives

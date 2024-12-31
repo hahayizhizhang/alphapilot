@@ -16,19 +16,18 @@ The main interface consists of two core functions:
 
 ## <mark style="color:green;">II. Left Navigation Bar</mark>
 
-For your convenience, we've set up quick access shortcuts on the left:
+For your convenience, we’ve set up quick access shortcuts in the left sidebar:
 
-• **Home**: Return to platform homepage anytime
+* **New Chat**: Start a fresh AI conversation for strategy creation and analysis.
+* **My Strategy**: Access your strategy management dashboard.
+* **My Signal**: Monitor your trading signals.
+* **Strategy Store**: Explore and acquire new trading strategies.
+* **X, Discord & Telegram**: Connect with us on social platforms via the icons.
+* **Account**: Easily manage your personal information and preferences through a clean, organized layout.
 
-• **New Conversation**: Start a fresh AI dialogue
+Start your intelligent quantitative trading journey today with AlphaPilot - Charting The Course for Smarter Alpha!🤖&#x20;
 
-• **History**: View conversation history
 
-• **Strategies**: Access strategy management center
-
-• **Settings**: Customize preferences and notifications
-
-Through this navigation guide, you can easily master AlphaPilot's core features and begin your intelligent quantitative trading journey. For additional support, click the AI assistant icon 🤖 on any page.
 
 
 
