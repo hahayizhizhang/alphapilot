@@ -14,7 +14,6 @@ Choose the appropriate membership level to enjoy a customized trading experience
 {% tab title="Free" %}
 ## $0
 
-* 1 Strategy&#x20;
 * 10 AI Agent questions/day
 {% endtab %}
 

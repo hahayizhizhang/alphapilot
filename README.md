@@ -15,7 +15,7 @@ layout:
 
 # Overview
 
-<figure><img src=".gitbook/assets/LogoWhite.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/白底banner.jpg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:green;">What is AlphaPilot?</mark>
 
@@ -29,23 +29,19 @@ Our team combines extensive experience in AI and fintech, working to help everyo
 
 ## <mark style="color:green;">📊 Available Markets:</mark>
 
-• Cryptocurrency&#x20;
-
-• US Stocks \[Coming Soon]&#x20;
-
-• A-Shares \[Coming Soon]
+* Cryptocurrency&#x20;
+* US Stocks \[Coming Soon]&#x20;
+* A-Shares \[Coming Soon]
 
 
 
 ## <mark style="color:green;">💡 Trading Strategies:</mark>
 
-• Price Action&#x20;
-
-• Multi-Factor  \[Coming Soon]&#x20;
-
-• DCA (Dollar-Cost Averaging)  \[Coming Soon]&#x20;
-
-• Event-Driven \[Coming Soon]&#x20;
+* Trend Master: A deep learning-based trading strategy designed to **capture key opportunities** in **your selected assets**, providing precise buy and sell **signals**.
+* Symbol Advisor: A strategy that delivers **precise buy signals**, enabling you to seize top market opportunities across **380+ symbols** with clarity and confidence.
+* Multi-Factor  \[Coming Soon]&#x20;
+* DCA (Dollar-Cost Averaging)  \[Coming Soon]&#x20;
+* Event-Driven \[Coming Soon]&#x20;
 
 
 

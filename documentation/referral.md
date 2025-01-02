@@ -4,7 +4,7 @@ icon: calendar-users
 
 # Referral
 
-## How it Works
+## 1. How it Works
 
 1.Share your unique referral link
 
@@ -12,7 +12,7 @@ icon: calendar-users
 
 3.Earn ongoing rewards when they subscribe&#x20;
 
-## Rewards Details&#x20;
+## 2. Rewards Details&#x20;
 
 1.Get **20%** commission from each referral's Premium subscription
 
