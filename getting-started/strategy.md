@@ -14,14 +14,29 @@ Quantitative trading is an intelligent investment approach based on mathematical
 
 AlphaPilot supports various quantitative trading strategies to meet different user needs:
 
-1. **Price Action**\
-   Based on historical price movements and market volatility to identify trading opportunities.
-2. **Multi-Factor**\
-   Makes trading decisions through comprehensive analysis of multiple market factors (technical indicators, fundamental data, etc.).
-3. **DCA (Dollar-Cost Averaging)**\
-   Designed for large capital investments seeking stable returns through systematic allocation.
-4. **Event-Driven**\
-   Trades based on major market events (earnings releases, macroeconomic data, etc.) to quickly capture market sentiment changes.
+**1.Price Action** &#x20;
+
+Based on historical price movements and market volatility to identify trading opportunities.
+
+**2.Trend Master Strategy**
+
+Forms trading decisions through comprehensive analysis of key market trends and patterns, delivering actionable trading signals to seize profitable opportunities.
+
+**3.Symbol Advisor Strategy**
+
+Makes trading decisions through comprehensive analysis of market trends across 380+ trading symbols, delivering precise buy signals tailored to individual trading objectives.
+
+**4.Multi-Factor**
+
+Makes trading decisions through comprehensive analysis of multiple market factors (technical indicators, fundamental data, etc.).
+
+**5.DCA (Dollar-Cost Averaging)**
+
+Designed for large capital investments seeking stable returns through systematic allocation.
+
+**6.Event-Driven**
+
+Trades based on major market events (earnings releases, macroeconomic data, etc.) to quickly capture market sentiment changes.
 
 ***
 
