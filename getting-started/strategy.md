@@ -26,15 +26,15 @@ Forms trading decisions through comprehensive analysis of key market trends and 
 
 Makes trading decisions through comprehensive analysis of market trends across 380+ trading symbols, delivering precise buy signals tailored to individual trading objectives.
 
-**4.Multi-Factor**
+**4.Multi-Factor(Coming soon)**
 
 Makes trading decisions through comprehensive analysis of multiple market factors (technical indicators, fundamental data, etc.).
 
-**5.DCA (Dollar-Cost Averaging)**
+**5.DCA (Coming soon)**
 
-Designed for large capital investments seeking stable returns through systematic allocation.
+Dollar-Cost Averaging(DCA) is designed for large capital investments seeking stable returns through systematic allocation.
 
-**6.Event-Driven**
+**6.Event-Driven(Coming soon)**
 
 Trades based on major market events (earnings releases, macroeconomic data, etc.) to quickly capture market sentiment changes.
 
