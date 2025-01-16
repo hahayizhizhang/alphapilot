@@ -21,7 +21,7 @@ To create a new strategy, follow these steps:
 1. Create personal strategy: Click \[Create My Strategy]
 2. Name it: Enter a simple, clear name in \[Strategy Name]
 3. Select symbol: Choose trading pair or stock in \[Symbol]
-4. Risk settings: Set market sensitivity level (0-200 scale, 100 is recommended)
+4. Risk settings: Set Alpha Factor (0-200 scale, Best alpha factor is recommended by AI)
 5. Preview: Click \[Preview] to review strategy details
 6. Save: Click \[Save] to store in \[My Strategy] for future use
 
