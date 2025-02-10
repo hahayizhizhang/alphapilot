@@ -4,7 +4,9 @@ icon: hand-pointer
 
 # Membership
 
-Note: You can upgrade your membership at any time to enjoy more professional features.
+AlphaPilot accept **credit cards** and **crypto** across 6 networks: Solana (SOL), Base, BEP20, TRC20, and ERC20. Fast, secure, and easy!
+
+_Note: **Upgrade** your membership **anytime** to access more professional features._
 
 ## <mark style="color:green;">Membership Details</mark>
 
