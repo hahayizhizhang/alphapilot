@@ -8,7 +8,7 @@ icon: discord
 
 
 
-### Official Channels
+### <mark style="color:green;">Official Channels</mark>
 
 AlphaPilot Official Website: [www.alphapilot.tech](http://www.alphapilot.tech)
 
