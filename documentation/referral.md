@@ -4,7 +4,7 @@ icon: calendar-users
 
 # Referral
 
-## 1. How it Works
+## <mark style="color:green;">1. How it Works</mark>
 
 1.Share your unique referral link
 
@@ -12,7 +12,7 @@ icon: calendar-users
 
 3.Earn ongoing rewards when they subscribe&#x20;
 
-## 2. Rewards Details&#x20;
+## <mark style="color:green;">2. Rewards Details</mark>&#x20;
 
 1.Get **20%** commission from each referral's Premium subscription
 

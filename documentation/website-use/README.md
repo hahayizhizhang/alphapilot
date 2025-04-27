@@ -28,16 +28,6 @@ Step-by-step instructions for account creation, verification, and security setup
 
 ***
 
-### 📊 How to Create and Modify Strategies
-
-Detailed guide on creating, customizing, and managing your trading strategies. Learn how to use both manual and AI-assisted strategy creation.
-
-{% content-ref url="how-to-create-and-modify-strategies.md" %}
-[how-to-create-and-modify-strategies.md](how-to-create-and-modify-strategies.md)
-{% endcontent-ref %}
-
-***
-
 ### 🔔 How to Get Notifications
 
 Complete setup instructions for all notification channels (web, email, Telegram) to ensure you never miss important trading signals.

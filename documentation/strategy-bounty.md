@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: plug-circle-plus
 ---
 
@@ -33,25 +34,17 @@ First register an AlphaPilot account
 
 * [x] **Platform Familiarization**
 
-<!---->
-
-* Study strategies: Understand AlphaPilot's strategy system
-* Write strategy: Develop your trading strategy or optimize existing ones
-* Complete information: Prepare strategy documentation including trading logic
-
-<!---->
+- Study strategies: Understand AlphaPilot's strategy system
+- Write strategy: Develop your trading strategy or optimize existing ones
+- Complete information: Prepare strategy documentation including trading logic
 
 * [x] **Strategy Submission**
 
-<!---->
-
-* Strategy code: Provide complete strategy code
-* Strategy explanation: Detailed trading logic description
-* Backtesting report: Provide detailed backtest data analysis
-* Risk control: Explain strategy risk control methods
-* Send reports to [contact@alphapilot.tech](mailto:contact@alphapilot.tech)
-
-<!---->
+- Strategy code: Provide complete strategy code
+- Strategy explanation: Detailed trading logic description
+- Backtesting report: Provide detailed backtest data analysis
+- Risk control: Explain strategy risk control methods
+- Send reports to [contact@alphapilot.tech](mailto:contact@alphapilot.tech)
 
 * [x] **Await Review**
 
@@ -63,12 +56,10 @@ Once strategy passes review, rewards will be distributed based on evaluation res
 
 * [x] **Important Notes**
 
-<!---->
-
-* Originality: Submitted strategy must be original or significantly improve existing strategies
-* Completeness: Strategy code must be executable with clear documentation
-* Practicality: Strategy should have practical application value, not just theoretical research
-* Rights: Strategy rights shared between submitter and AlphaPilot
+- Originality: Submitted strategy must be original or significantly improve existing strategies
+- Completeness: Strategy code must be executable with clear documentation
+- Practicality: Strategy should have practical application value, not just theoretical research
+- Rights: Strategy rights shared between submitter and AlphaPilot
 
 Let's work together to create superior quantitative trading strategies and provide better investment options for global traders!
 

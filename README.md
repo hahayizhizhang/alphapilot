@@ -19,15 +19,13 @@ layout:
 
 ## <mark style="color:green;">What is AlphaPilot?</mark>
 
-AlphaPilot is an AI-powered quantitative trading assistant system, developed by experts from leading global tech companies and top institutions.
+AlphaPilot is an AI-driven quantitative trading ecosystem designed to empower traders of all levels. Built by experts from leading global tech companies and top institutions, our mission is to help you achieve financial freedom through cutting-edge AI and quantitative trading technologies.
 
-Our team combines extensive experience in AI and fintech, working to help everyone achieve financial freedom and sovereignty through AI and quantitative trading technologies.
+## 🔑 <mark style="color:green;">AlphaPilot Ecosystem</mark>
 
-## 🔑 Core Features:
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="background-color:green;"><strong>1 APilot</strong></mark> </td><td><p>APilot is an open-source, high-performance trading framework focused on cryptocurrency and stock markets. It supports both backtesting and live trading, providing a complete solution for professional and retail traders.</p><ul><li>Event-Driven Architecture</li><li>Multiple Trading Strategies</li><li>Professional Execution Algorithms</li><li>Comprehensive Backtesting</li><li>Multi-Exchange Support</li><li>Live Trading Ready</li><li>Extensible Design</li></ul><p></p></td><td></td><td></td><td></td></tr><tr><td><mark style="background-color:green;"><strong>2</strong><strong> </strong><strong>Trading Agent</strong></mark></td><td><p>A smart assistant that enhances your trading with real-time market analysis and actionable insights. </p><ul><li>Smart trading recommendations</li><li>Intuitive conversational interface</li><li>Risk preference-based strategy suggestions</li></ul></td><td></td><td></td><td></td></tr><tr><td><mark style="background-color:green;"><strong>3 Strategy Signals</strong></mark></td><td><p></p><p>Stay ahead of the market with real-time alerts.</p><ul><li>High-probability trading signals</li><li>Opportunity identification across markets</li><li>Boosted trading efficiency</li></ul></td><td></td><td></td><td></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="background-color:green;"><strong>1 AI Trading Assistant</strong></mark></td><td><p>• Real-time market analysis </p><p>• Smart trading recommendations </p><p>• Intuitive conversational interface</p></td><td></td><td></td><td></td></tr><tr><td><mark style="background-color:green;"><strong>2 Personalized Strategy Management</strong></mark></td><td><p>• Customized strategy portfolios </p><p>• Risk preference optimization </p><p>• Individual trading style adaptation</p></td><td></td><td></td><td></td></tr><tr><td><mark style="background-color:green;"><strong>3 Strategy Signals</strong></mark></td><td><p>• Real-time trading signals </p><p>• Market opportunity alerts </p><p>• Enhanced trading efficiency</p></td><td></td><td></td><td></td></tr></tbody></table>
-
-## <mark style="color:green;">📊 Available Markets:</mark>
+## <mark style="color:green;">📊 Available Markets</mark>
 
 * Cryptocurrency&#x20;
 * US Stocks \[Coming Soon]&#x20;
@@ -35,13 +33,11 @@ Our team combines extensive experience in AI and fintech, working to help everyo
 
 
 
-## <mark style="color:green;">💡 Trading Strategies:</mark>
+## <mark style="color:green;">💡 Trading Strategies</mark>
 
-* Trend Master: A deep learning-based trading strategy designed to **capture key opportunities** in **your selected assets**, providing precise buy and sell **signals**.
-* Symbol Advisor: A strategy that delivers **precise buy signals**, enabling you to seize top market opportunities across **380+ symbols** with clarity and confidence.
-* Multi-Factor  \[Coming Soon]&#x20;
-* DCA (Dollar-Cost Averaging)  \[Coming Soon]&#x20;
-* Event-Driven \[Coming Soon]&#x20;
+* **Trend Master**: A deep learning-based trading strategy designed to capture key opportunities in your selected assets, providing precise <mark style="color:green;">buy and sell signals</mark>.
+* **Symbol Advisor**: A strategy that delivers <mark style="color:green;">precise buy signals</mark>, enabling you to seize top market opportunities across <mark style="color:green;">380+ symbols</mark> with clarity and confidence.
+* **SOL Scalper:** A <mark style="color:green;">short-term Solana trading strategy</mark>, leveraging trend, momentum, and volatility indicators to generate high-probability trade signals.
 
 
 

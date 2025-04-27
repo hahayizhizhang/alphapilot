@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How to Create and Modify Strategies
 
 ### ⚠️ Important Notes:

@@ -12,6 +12,8 @@ icon: discord
 
 AlphaPilot Official Website: [www.alphapilot.tech](http://www.alphapilot.tech)
 
+Github Link: [https://github.com/AlphaPilotHQ/AlphaPilotHQ](https://github.com/AlphaPilotHQ/AlphaPilotHQ)
+
 AlphaPilot Official X (Twitter): [https://x.com/AlphaPilotHQ](https://x.com/AlphaPilotHQ)
 
 Discord Official Group: [https://discord.gg/VAz9ChMghu](https://discord.gg/VAz9ChMghu)

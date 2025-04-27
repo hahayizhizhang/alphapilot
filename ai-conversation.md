@@ -1,8 +1,8 @@
 ---
-icon: globe-pointer
+icon: robot
 ---
 
-# AI Assistant
+# Agent
 
 ## <mark style="color:green;">I. How to Interact with the AI?</mark>
 

@@ -26,15 +26,19 @@ Forms trading decisions through comprehensive analysis of key market trends and 
 
 Makes trading decisions through comprehensive analysis of market trends across 380+ trading symbols, delivering precise buy signals tailored to individual trading objectives.
 
-**4.Multi-Factor(Coming soon)**
+**4.SOL Scalper**
+
+A short-term Solana trading strategy, leveraging trend, momentum, and volatility indicators to generate high-probability trade signals.
+
+**5.Multi-Factor(Coming soon)**
 
 Makes trading decisions through comprehensive analysis of multiple market factors (technical indicators, fundamental data, etc.).
 
-**5.DCA (Coming soon)**
+**6.DCA (Coming soon)**
 
 Dollar-Cost Averaging(DCA) is designed for large capital investments seeking stable returns through systematic allocation.
 
-**6.Event-Driven(Coming soon)**
+**7.Event-Driven(Coming soon)**
 
 Trades based on major market events (earnings releases, macroeconomic data, etc.) to quickly capture market sentiment changes.
 

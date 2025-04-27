@@ -4,7 +4,11 @@
 
 * [Overview](README.md)
 * [Strategy](getting-started/strategy.md)
-* [AI Assistant](getting-started/ai-conversation.md)
+* [APilot](getting-started/apilot.md)
+
+***
+
+* [Agent](ai-conversation.md)
 
 ## Documentation
 
