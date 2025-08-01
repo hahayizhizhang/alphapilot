@@ -4,11 +4,9 @@
 
 * [Overview](README.md)
 * [Strategy](getting-started/strategy.md)
+* [Agent](getting-started/ai-conversation.md)
 * [APilot](getting-started/apilot.md)
-
-***
-
-* [Agent](ai-conversation.md)
+* [Trading Education Hub](getting-started/trading-education-hub.md)
 
 ## Documentation
 
