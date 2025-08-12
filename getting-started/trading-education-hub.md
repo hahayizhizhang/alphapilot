@@ -7,11 +7,9 @@ icon: school
 
 # Trading Education Hub
 
-## <mark style="color:$success;">Ⅰ.</mark> **multi-factor quantitative strategy**
+## <mark style="color:$success;">Ⅰ.</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**multi-factor quantitative strategy**</mark>
 
 AlphaPilot adopts a <mark style="color:$success;">**multi-factor quantitative strategy**</mark>, which is a very common approach in quantitative investing. The core idea is to <mark style="color:$success;">**simultaneously utilize multiple proven investment factors**</mark> to construct a portfolio, thereby improving the stability of returns and reducing the risk of a single factor failing.
-
-***
 
 #### 1. **What is a “Factor”?**
 
@@ -24,16 +22,12 @@ In quantitative investing, a _factor_ is a characteristic variable used to expla
   * **Volatility Factor**: stocks with low volatility, generally associated with lower risk.
   * **Size Factor**: excess return characteristics associated with small-cap or large-cap stocks.
 
-***
-
 #### 2. **Why Use “Multi-Factor”?**
 
 * A single factor may underperform or fail during certain periods (e.g., value stocks underperforming growth stocks in some years).
 * Different factors perform differently under various market conditions.
 * Combining multiple factors diversifies risk and enhances the long-term robustness of the strategy.\
   It’s like not putting all your eggs in one basket—using multiple stock selection criteria together.
-
-***
 
 #### 3. **Process of Building a Multi-Factor Strategy**
 
@@ -48,18 +42,35 @@ In quantitative investing, a _factor_ is a characteristic variable used to expla
 5. **Portfolio Construction & Rebalancing**
    * Select the top N stocks by score to form the portfolio, and rebalance periodically (e.g., monthly).
 
-***
-
 #### 4. **Advantages**
 
 * Reduces the risk of a single factor failing.
 * Delivers more stable long-term returns.
 * Can adapt to different market styles.
 
-***
-
 #### 5. **Disadvantages**
 
 * Factors may be highly correlated (multicollinearity), reducing diversification benefits.
 * Data quality and factor stability are critical.
 * Transaction costs and slippage may erode part of the returns.
+
+
+
+***
+
+## <mark style="color:$success;">II. What Is a MicroTrend?</mark>
+
+#### 1.Meaning
+
+Microtrending involves identifying and <mark style="color:$success;">capitalizing on tiny price trend changes</mark> over <mark style="color:$success;">a very short timescale</mark>, ranging from a few seconds to a few hours.
+
+#### 2.Core Logic
+
+Even in seemingly random market fluctuations, prices can exhibit brief, directional upward or downward momentum over extremely short periods. This slight inertia or reaction is typically driven by factors like order flow, market sentiment, news shocks, and market microstructure.
+
+#### 3.Common Methods
+
+* <mark style="color:$success;">Price Momentum:</mark> (Short-period moving averages, price slope, etc., which is the current method used by AlphaPilot)
+* Sudden Volume Spikes
+* Order Book Imbalance: (Behavior of limit orders and cancellations)
+* High-Frequency Statistical Patterns: (Such as price breakthroughs of small ranges)
