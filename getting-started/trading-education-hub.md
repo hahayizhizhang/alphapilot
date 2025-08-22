@@ -11,7 +11,7 @@ icon: school
 
 AlphaPilot adopts a <mark style="color:$success;">**multi-factor quantitative strategy**</mark>, which is a very common approach in quantitative investing. The core idea is to <mark style="color:$success;">**simultaneously utilize multiple proven investment factors**</mark> to construct a portfolio, thereby improving the stability of returns and reducing the risk of a single factor failing.
 
-#### 1. **What is a “Factor”?**
+#### <mark style="color:$success;">1.</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**What is a “Factor”?**</mark>
 
 In quantitative investing, a _factor_ is a characteristic variable used to explain or predict asset returns, typically extracted from financial data, market prices, or macroeconomic indicators.
 
@@ -22,14 +22,14 @@ In quantitative investing, a _factor_ is a characteristic variable used to expla
   * **Volatility Factor**: stocks with low volatility, generally associated with lower risk.
   * **Size Factor**: excess return characteristics associated with small-cap or large-cap stocks.
 
-#### 2. **Why Use “Multi-Factor”?**
+#### <mark style="color:$success;">2.</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**Why Use “Multi-Factor”?**</mark>
 
 * A single factor may underperform or fail during certain periods (e.g., value stocks underperforming growth stocks in some years).
 * Different factors perform differently under various market conditions.
 * Combining multiple factors diversifies risk and enhances the long-term robustness of the strategy.\
   It’s like not putting all your eggs in one basket—using multiple stock selection criteria together.
 
-#### 3. **Process of Building a Multi-Factor Strategy**
+#### <mark style="color:$success;">3.</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**Process of Building a Multi-Factor Strategy**</mark>
 
 1. **Factor Selection & Testing**
    * Select effective factors from historical data and perform significance tests (IC, t-statistics, etc.).
@@ -42,13 +42,13 @@ In quantitative investing, a _factor_ is a characteristic variable used to expla
 5. **Portfolio Construction & Rebalancing**
    * Select the top N stocks by score to form the portfolio, and rebalance periodically (e.g., monthly).
 
-#### 4. **Advantages**
+#### <mark style="color:$success;">4.</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**Advantages**</mark>
 
 * Reduces the risk of a single factor failing.
 * Delivers more stable long-term returns.
 * Can adapt to different market styles.
 
-#### 5. **Disadvantages**
+#### <mark style="color:$success;">5.</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**Disadvantages**</mark>
 
 * Factors may be highly correlated (multicollinearity), reducing diversification benefits.
 * Data quality and factor stability are critical.
@@ -60,15 +60,15 @@ In quantitative investing, a _factor_ is a characteristic variable used to expla
 
 ## <mark style="color:$success;">II. What Is a MicroTrend?</mark>
 
-#### 1.Meaning
+#### <mark style="color:$success;">1.Meaning</mark>
 
 Microtrending involves identifying and <mark style="color:$success;">capitalizing on tiny price trend changes</mark> over <mark style="color:$success;">a very short timescale</mark>, ranging from a few seconds to a few hours.
 
-#### 2.Core Logic
+#### <mark style="color:$success;">2.Core Logic</mark>
 
 Even in seemingly random market fluctuations, prices can exhibit brief, directional upward or downward momentum over extremely short periods. This slight inertia or reaction is typically driven by factors like order flow, market sentiment, news shocks, and market microstructure.
 
-#### 3.Common Methods
+#### <mark style="color:$success;">3.Common Methods</mark>
 
 * <mark style="color:$success;">Price Momentum:</mark> (Short-period moving averages, price slope, etc., which is the current method used by AlphaPilot)
 * Sudden Volume Spikes
@@ -114,3 +114,34 @@ Evaluating a strategy is a holistic process. You can't just look at one number a
 * One with a low Max Drawdown and a stable Sharpe Ratio is a more conservative, steady-performing strategy.
 
 The real goal is to find a strategy where the risk and return are balanced to fit your personal financial goals and risk tolerance.
+
+***
+
+### <mark style="color:$success;">IV. Why We Use Dynamic</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**stop-loss/take-profit**</mark>
+
+#### <mark style="color:$success;">1. What Is Dynamic</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**stop-loss/take-profit**</mark><mark style="color:$success;">?</mark>
+
+A Dynamic **stop-loss/take-profit** is a dynamic mechanism that automatically adjusts with market price movements.
+
+* When the price moves in your favor, the stop level trails upward (or downward for shorts), locking in unrealized gains.
+* When the price moves against you, the stop level stays fixed until it is hit, then closes the position.
+
+In short, it helps you **“lock in profits while letting them run.”**
+
+#### <mark style="color:$success;">2. Why Use It?</mark>
+
+Markets are highly dynamic—thousands of factors can influence price at any moment.\
+A **static stop-loss/take-profit** only considers the entry point and ignores new market conditions.
+
+Imagine this:\
+You set a static stop-loss, and the price is about to hit it. Suddenly, major positive news drives the market sharply higher. A static stop would have stopped you out, making you miss the rally.\
+Dynamic stops solve this by adapting to live market changes.
+
+#### <mark style="color:$success;">3. How to Use It in AlphaPilot</mark>
+
+1. When you receive a signal and place an order, **set your initial exit price** on the notification.
+2. Open the **strategy detail page** in AlphaPilot.
+3. On the chart, you’ll see a **green exit line**. This line automatically updates to show your latest dynamic stop level.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
