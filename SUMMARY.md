@@ -7,6 +7,7 @@
 * [Agent](getting-started/ai-conversation.md)
 * [APilot](getting-started/apilot.md)
 * [Trading Education Hub](getting-started/trading-education-hub.md)
+* [Partners](getting-started/partners.md)
 
 ## Documentation
 
