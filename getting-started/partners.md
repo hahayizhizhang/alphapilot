@@ -39,6 +39,7 @@ We have carefully selected the premier exchanges to cater to every type of crypt
 1. **Register using our exclusive links:**
    * **Bitget:** https://partner.dhxrcw.cn/bg/alpha42
    * **Binance:** https://www.maxweb.academy/join?ref=ALPHAPILOT
+   * **Hyperliquid:** [https://app.hyperliquid.xyz/join/ALPHAPILOT](https://app.hyperliquid.xyz/join/ALPHAPILOT)
 2. Complete the KYC(Know Your Customer) verification within the app.
 3. **Contact** your dedicated specialist at https://t.me/AlphaPilotClub to confirm your rebate status and claim your welcome benefits.
 
